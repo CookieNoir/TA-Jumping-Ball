@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d02e0d930b520374a9ebaf9fab29ffde, type: 3}
+  m_Name: Moving 2_2
+  m_EditorClassIdentifier: 
+  _prefabsAndProbabilities:
+  - prefab: {fileID: 8732899648683661910, guid: 14f8da0ea960bfc45bc0771541dc78fe, type: 3}
+    probability: 2
+  - prefab: {fileID: 9025215986948716154, guid: 95076cf3fd929d8438ebab9d6c8d0034, type: 3}
+    probability: 2
+  - prefab: {fileID: 8061029386010131412, guid: d2758a67957defc4f894f64d3d2cb4ed, type: 3}
+    probability: 2
+  - prefab: {fileID: 8899213274464590439, guid: 6f066922907cddc4981edc58b756d035, type: 3}
+    probability: 1
+  - prefab: {fileID: 1038902385162739718, guid: 0860bfeb7d937264a8d292a3212fc0d0, type: 3}
+    probability: 3
+  _blocksCount: 10
+  _randomSeed: 17
