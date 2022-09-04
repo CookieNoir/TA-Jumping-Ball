@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7797991022405929857
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2368992289262938618, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395469, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992289293395471, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_Name
+      value: Moving Platform Block Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992290487018858, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: _movesToPoint2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992290487018858, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: _startFactorValue
+      value: 0.125
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992290487018858, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: _interpolationSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992290487018900, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_Size.x
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992290487018901, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992290487018903, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_Size.x
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992290487018903, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368992291198925584, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: ac5942ed897a49e46863ec1c793d7204, type: 3}
